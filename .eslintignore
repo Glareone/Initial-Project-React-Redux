@@ -1,0 +1,8 @@
+# Ignore configs
+babel.config.js
+config.js
+webpack.dev.config.js
+webpack.prod.config.js
+
+# Ignore build directory
+dist/
